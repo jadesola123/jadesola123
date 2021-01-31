@@ -31,7 +31,7 @@ get-office-quotes:
       - name: Push
         uses: ad-m/github-push-action@master
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
+          github_token: ${{ secrets.cd3f69b22451f150a7a96aa2ff48b043c5692cae }}
  update-readme-with-blog:
    name: Update this repo's README with latest blog posts
    runs-on: ubuntu-latest
