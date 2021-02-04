@@ -77,8 +77,6 @@ Twitter</a></li>
 ## 📌Pinned Reposotries.
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jadesola123&repo=Seedbuilders-Innovation&show_icons=true&theme=great-gatsby))](https://github.com/jadesola123/github-readme-stats)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jadesola123&repo=jadecodes&show_icons=true&theme=great-gatsby))](https://github.com/jadesola123/github-readme-stats)
-
 
 ## My stats📈
 
