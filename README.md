@@ -69,6 +69,7 @@ Twitter</a></li>
 
 # 📩 Latest Blog Posts.
 <!-- BLOG-POST-LIST:START -->
+- [How to get Experience for your Resumé as a Junior Developer.](https://jadekareem.hashnode.dev/how-to-get-experience-for-your-resume-as-a-junior-developer)
 - [Challenges I have Encountered on my Tech Journey.](https://jadekareem.hashnode.dev/challenges-i-have-encountered-on-my-tech-journey)
 - [Why I Started my Tech Journey.](https://jadekareem.hashnode.dev/why-i-started-my-tech-journey)
 - [Getting Started with the Raspberry Pi 3b](https://jadekareem.hashnode.dev/getting-started-with-the-raspberry-pi-3b)
