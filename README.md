@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<br>My name is Jade, I am a 21 year old graduate of computer engineering from nigeria . </br> <br>I love reading tech articles and I love writing screenplays. </br>
+<br>My name is Jadesola, I am a content writer with interest in front-end development and data science. </br> <br>I love reading tech articles and I love writing screenplays. </br>
 Aside from tech and film, I also blog on medium and I have been published in "the startup" and " change your mind, change your life" publications on there.
 
 
@@ -40,15 +40,20 @@ Currently I am self teaching myself in html, css and Javascript and a little pyt
 
 <li>👩🏾Pronounces are she/her 
 
+  
+<li>I have a degree in computer engineering
+  
+  
+<li>I currently work at an Internet service provider in Nigeria
+  
 
-<li>I really enjoy reality shows (even if they are fake)🌚🌚
+<li>I really enjoy reality shows (even though they are fake)🌚🌚
 
 
-<li>💆🏾‍♀️I love listening to asmr and burning incense to help me relax.
+<li>💆🏾‍♀️I love listening to asmr and burning incense, they help me relax.
 
 
 <li>🎤 My favorite Dev podcasts are code newbie and the ladybug podcasts.
-
 
 
 <li>🎬 My favorite movies of all time are lady bird, Brooklyn and brokeback mountain
