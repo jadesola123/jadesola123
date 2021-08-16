@@ -74,6 +74,7 @@ Twitter</a></li>
 
 # 📩 Latest Blog Posts.
 <!-- BLOG-POST-LIST:START -->
+- [HNGInternship Chronicles: Task 1.](https://jadekareem.hashnode.dev/hnginternship-chronicles-task-1)
 - [How to get experience for your resume as a junior developer](https://jadekareem.hashnode.dev/how-to-get-experience-for-your-resume-as-a-junior-developer-1)
 - [Challenges I have Encountered on my Tech Journey.](https://jadekareem.hashnode.dev/challenges-i-have-encountered-on-my-tech-journey)
 - [Why I Started my Tech Journey.](https://jadekareem.hashnode.dev/why-i-started-my-tech-journey)
