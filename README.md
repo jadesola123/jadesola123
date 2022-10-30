@@ -38,7 +38,7 @@ Currently I am self teaching myself in html, css and Javascript and a little pyt
 <li>📺 my favorite shows to binge are gossip girl, ugly betty and desperate housewives.
 
 
-<li>👩🏾Pronounces are she/her 
+<li>👩🏾Pronouns are she/her 
 
   
 <li>I have a degree in computer engineering
