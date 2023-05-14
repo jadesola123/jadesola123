@@ -10,7 +10,6 @@
 # About Me
 ### Hi there👋🏾
 
-<p> Here is arndom's ocoto-lang:</p>
 <img src= "./my-octo-lang.png" width="400px"/>
 
 <!--
