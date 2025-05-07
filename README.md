@@ -65,7 +65,7 @@ Follow me on
 <ul>
 <li><a href="http://medium.com/@jadesolak.business" target="_blank">
 Medium</a></li>
-<li><a href="http://www.twitter.com/jadecodes" target="_blank">
+<li><a href="http://www.twitter.com/jaded_developer" target="_blank">
 Twitter</a></li>
 
 <li><a href="mailto: Jadesolak.business@gmail.com">Email me</a></li>
